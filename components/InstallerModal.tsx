@@ -11,9 +11,8 @@ interface InstallerModalProps {
 
 type Step = "info" | "started";
 
-// TODO: replace with your actual v0.2.1 NSIS installer filename/path and real size
 const WINDOWS_DOWNLOAD_URL =
-  "https://github.com/tansuplico/apiis-lms/releases/download/v0.2.1/APIIS.LMS_0.2.1_x64-setup.exe";
+  "https://github.com/tansuplico/apiis-lms/releases/download/v0.2.5/APIIS.LMS_0.2.5_x64-setup.exe";
 const WINDOWS_SIZE = "5.57 MB";
 const WINDOWS_VERSION = "Windows 10 / 11";
 const WINDOWS_INSTRUCTIONS =

@@ -91,7 +91,7 @@ export default function InstallerModal({
                 <span className="text-sm font-bold text-slate-900">
                   APIIS LMS
                 </span>
-                <span className="text-xs text-slate-400 ml-1">v0.2.1</span>
+                <span className="text-xs text-slate-400 ml-1">v0.2.5</span>
               </div>
               <button
                 onClick={handleClose}

@@ -39,8 +39,8 @@ export default function Navbar({ onOpenModal }: NavbarProps) {
               <Image
                 src={logo}
                 alt="APIIS LMS logo"
-                width={32}
-                height={32}
+                width={80}
+                height={80}
                 className="rounded-[7px]"
               />
             </a>

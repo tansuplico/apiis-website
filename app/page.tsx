@@ -20,7 +20,6 @@ export default function HomePage() {
         <Hero onOpenModal={openModal} />
       </main>
 
-      <Footer />
       <InstallerModal isOpen={isModalOpen} onClose={closeModal} />
     </>
   );

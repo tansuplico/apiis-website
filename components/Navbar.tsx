@@ -43,9 +43,6 @@ export default function Navbar({ onOpenModal }: NavbarProps) {
                 height={32}
                 className="rounded-[7px]"
               />
-              <span className="font-bold text-[17px] tracking-tight text-slate-900">
-                APIIS LMS
-              </span>
             </a>
 
             {/* Desktop CTA buttons */}

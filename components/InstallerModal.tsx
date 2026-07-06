@@ -12,7 +12,7 @@ interface InstallerModalProps {
 type Step = "info" | "started";
 
 const WINDOWS_DOWNLOAD_URL =
-  "https://github.com/tansuplico/apiis-lms/releases/download/v0.2.5/APIIS.LMS_0.2.5_x64-setup.exe";
+  "https://github.com/tansuplico/apiis-lms/releases/download/v0.2.6/APIIS.LMS_0.2.6_x64-setup.exe";
 const WINDOWS_SIZE = "5.57 MB";
 const WINDOWS_VERSION = "Windows 10 / 11";
 const WINDOWS_INSTRUCTIONS =
